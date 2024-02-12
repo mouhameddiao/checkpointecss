@@ -1,0 +1,8 @@
+h2{color:red;
+	font-family: roboto;
+	text-align: center
+}
+.style-paragraph1{color:blue;
+	font-family: roboto;
+	text-align: center
+}
